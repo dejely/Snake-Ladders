@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <time.h>
 
+//Contribute at: https://github.com/dejely/Snake-Ladders/tree/main
+
 #define MAX 4
 #define BOARD 100
 #define NUM_LADD 10
